@@ -1,1 +1,2 @@
 * Added fastlane structure for F-Droid inclusion
+bash:$1900 org.microemu.android.model.common.VTUserApplicationBNRTMB/drawable/2131230942"]
